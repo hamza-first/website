@@ -1,4 +1,12 @@
 
+    h1::before{
+        content:"hamza" ;
+    }
+    p::before{
+        content:"✨" ;
+        color: orange;
+        background-color: pink;
+    }
 
 
 
